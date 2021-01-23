@@ -1,5 +1,7 @@
-30b8832e1c396645365654972fc42f5c *DESCRIPTION
-f5be9b3cebf5f1289f0c42901ee8702d *NAMESPACE
+01ff70eaacf05d828740cea15becb2fc *DESCRIPTION
+06667d85b127fb44f952027db32507ff *NAMESPACE
+6215270d140051c3152f0dabe1c191e2 *R/ARCH.Test.R
+6d3c2a0ed1ff4ed497b7f054a03ed840 *R/Cook_Vougas_2009_unit_root.R
 1d4e9287a2ca9e51aa2b2b6170ff9a73 *R/Cuestas_Garratt_unit_root.R
 4603237f8c5780946ca9c4d42396250b *R/Cuestas_Ordonez_2014_unit_root.R
 170b76f34051cfd2350206a41939cbc3 *R/ESTAR_ECM.R
@@ -19,12 +21,14 @@ ba5284aaae7958f1837ee6de71c8c1b7 *R/LNV_1998_unit_root.R
 e482e19a396560c4942037ba7231f455 *R/Park_Shintani_2016_unit_root.R
 c8441f31a01499ed22dbae9cae393cc2 *R/Pascalau_2007_unit_root.R
 6ec4ea8f9e817184d8604f8032b8eb88 *R/SETAR_model.R
-4d036ff398ef0558e0febb0b2baf1328 *R/Sollis2009_Unit_Root.R
+3bcbcbbb886fb9de2b87506f7e83049e *R/Sollis2009_Unit_Root.R
 c276ae99af0304d9c205d1e9c27601cf *R/Sollis_2004_unit_root.R
 dded5932231635f902b8ba874044b032 *R/Terasvirta1994test.R
 99459dbe45956e5495c47f74b7660fe6 *R/Vougas_2006_unit_root.R
 0b4d2fa3d9c14eb5978971f65043a271 *data/IBM.rda
 df6c24d09282548b5113706a32899428 *data/MarketPrices.rda
+ca5dbfc5084d7775f24827b8f5f0c52e *man/ARCH.Test.Rd
+9375b3496aff95e6468e551e78578bed *man/Cook_Vougas_2009_unit_root.Rd
 4dac2ca518a809edd9eab15ba15ab635 *man/Cuestas_Garratt_unit_root.Rd
 b25c283d334b267c243521022911efe8 *man/Cuestas_Ordonez_2014_unit_root.Rd
 a33a95b21f7f3cac26cd60659306c357 *man/ESTAR_ECM.Rd

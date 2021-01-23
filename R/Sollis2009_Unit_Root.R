@@ -98,7 +98,7 @@ Sollis2009_Unit_Root<-function(x,case,lags,lsm){
   z.diff=embed(z, uygun_lag+1)[,1]
   kup=x^3
   z.lag.1=kup[(uygun_lag+1):n]
-  karekare=x^2
+  karekare=x^4
   z.lag.2=karekare[(uygun_lag+1):n]
   k=uygun_lag+1
   if(uygun_lag == 0){
